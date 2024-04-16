@@ -1,0 +1,38 @@
+/* Style for bug list */
+bugList {
+    display: block;
+    margin-bottom: 20px;
+    border: 1px solid blueviolet; /* Add border */
+    padding: 10px; /* Add padding */
+}
+
+bug {
+    display: block;
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+bug > id {
+    font-weight: bold;
+    margin-bottom: 5px;
+    left: 5px;
+    margin-right: 10px;
+}
+
+bug > summary {
+    color: blue;
+    margin-bottom: 5px;
+    margin-right: 10px; 
+}
+bug > reporter {
+    font-style: italic;
+    margin-bottom: 5px;
+    margin-right: 10px; 
+}
+
+/* Style for status */
+bug > status {
+    font-weight: bold;
+    color: green;
+    margin-bottom: 5px; 
+}

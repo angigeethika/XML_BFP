@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="bugs_dev.css"?>
+<!DOCTYPE bugs SYSTEM "bugs_dev.dtd">
+<bugs>
+  <bug>
+    <id>1</id>
+    <title>Broken Login Page</title>
+    <description>Users are unable to login, receiving an error message after submitting credentials.</description>
+    <issue_date>2024-03-15</issue_date>
+    <progress>Assigned</progress>
+    <action>
+      <assigned_to>Developer A</assigned_to>
+      <status>In Progress</status>
+    </action>
+  </bug>
+  <bug>
+    <id>2</id>
+    <title>404 Error on Profile Page</title>
+    <description>Users are getting a 404 error when trying to access their profile page.</description>
+    <issue_date>2024-03-15</issue_date>
+    <progress>Assigned</progress>
+    <action>
+      <assigned_to>Developer A</assigned_to>
+      <status>In Progress</status>
+    </action>
+  </bug>
+  <bug>
+    <id>3</id>
+    <title>Product Image Not Loading</title>
+    <description>Product images are not loading on the product detail page.</description>
+    <issue_date>2024-03-16</issue_date>
+    <progress>Assigned</progress>
+    <action>
+      <assigned_to>Developer B</assigned_to>
+      <status>In Progress</status>
+    </action>
+  </bug>
+  <bug>
+    <id>4</id>
+    <title>Checkout Button Not Functional</title>
+    <description>Users are unable to proceed to checkout as the checkout button is not working.</description>
+    <issue_date>2024-03-17</issue_date>
+    <progress>Assigned</progress>
+    <action>
+      <assigned_to>Developer B</assigned_to>
+      <status>In Progress</status>
+    </action>
+  </bug>
+  <bug>
+    <id>5</id>
+    <title>Incorrect Pricing Display</title>
+    <description>Product prices are displaying incorrectly on the product listing page.</description>
+    <issue_date>2024-03-18</issue_date>
+    <progress>Assigned</progress>
+    <action>
+      <assigned_to>Developer C</assigned_to>
+      <status>In Progress</status>
+    </action>
+  </bug>
+  <bug>
+    <id>6</id>
+    <title>Broken Contact Form</title>
+    <description>Users are unable to submit messages through the contact form on the website.</description>
+    <issue_date>2024-03-19</issue_date>
+    <progress>Assigned</progress>
+    <action>
+      <assigned_to>Developer C</assigned_to>
+      <status>In Progress</status>
+    </action>
+  </bug>
+  <bug>
+    <id>7</id>
+    <title>Slow Page Load Times</title>
+    <description>Pages on the website are loading very slowly, affecting user experience.</description>
+    <issue_date>2024-03-20</issue_date>
+    <progress>Assigned</progress>
+    <action>
+      <assigned_to>Developer D</assigned_to>
+      <status>In Progress</status>
+    </action>
+  </bug>
+  <bug>
+    <id>8</id>
+    <title>Missing Product Descriptions</title>
+    <description>Some product descriptions are missing from the product detail pages.</description>
+    <issue_date>2024-03-21</issue_date>
+    <progress>Assigned</progress>
+    <action>
+      <assigned_to>Developer D</assigned_to>
+      <status>In Progress</status>
+    </action>
+  </bug>
+  <bug>
+    <id>9</id>
+    <title>Search Functionality Not Working</title>
+    <description>Users are unable to search for products as the search functionality is not working.</description>
+    <issue_date>2024-03-22</issue_date>
+    <progress>Assigned</progress>
+    <action>
+      <assigned_to>Developer E</assigned_to>
+      <status>In Progress</status>
+    </action>
+  </bug>
+  <bug>
+    <id>10</id>
+    <title>Broken Navigation Menu</title>
+    <description>The navigation menu is not working properly on mobile devices.</description>
+    <issue_date>2024-03-23</issue_date>
+    <progress>Assigned</progress>
+    <action>
+      <assigned_to>Developer E</assigned_to>
+      <status>In Progress</status>
+    </action>
+  </bug>
+  <bug>
+    <id>11</id>
+    <title>Incorrect Billing Information on Checkout</title>
+    <description>Users are reporting that their billing information is incorrect after completing the checkout process.</description>
+    <issue_date>2024-03-24</issue_date>
+    <progress>Assigned</progress>
+    <action>
+      <assigned_to>Developer F</assigned_to>
+      <status>In Progress</status>
+    </action>
+  </bug>
+  <bug>
+    <id>12</id>
+    <title>Broken Add to Cart Button</title>
+    <description>The 'Add to Cart' button is not functioning when users try to add products to their cart.</description>
+    <issue_date>2024-03-25</issue_date>
+    <progress>Assigned</progress>
+    <action>
+      <assigned_to>Developer F</assigned_to>
+      <status>In Progress</status>
+    </action>
+  </bug>
+  <bug>
+    <id>13</id>
+    <title>Incorrect Sorting on Product Listing</title>
+    <description>Products on the listing page are not sorted correctly based on user preferences.</description>
+    <issue_date>2024-03-26</issue_date>
+    <progress>Assigned</progress>
+    <action>
+      <assigned_to>Developer G</assigned_to>
+      <status>In Progress</status>
+    </action>
+  </bug>
+  <bug>
+    <id>14</id>
+    <title>Broken Forgot Password Functionality</title>
+    <description>Users are unable to reset their password using the 'Forgot Password' feature.</description>
+    <issue_date>2024-03-27</issue_date>
+    <progress>Assigned</progress>
+    <action>
+      <assigned_to>Developer G</assigned_to>
+      <status>In Progress</status>
+    </action>
+  </bug>
+  <bug>
+    <id>15</id>
+    <title>Text Overlaps on Mobile View</title>
+    <description>Text content is overlapping on the website when viewed on mobile devices.</description>
+    <issue_date>2024-03-28</issue_date>
+    <progress>Assigned</progress>
+    <action>
+      <assigned_to>Developer H</assigned_to>
+      <status>In Progress</status>
+    </action>
+  </bug>
+  <bug>
+    <id>16</id>
+    <title>Broken Link in Footer</title>
+    <description>A link in the footer is leading to an incorrect page.</description>
+    <issue_date>2024-03-29</issue_date>
+    <progress>Assigned</progress>
+    <action>
+      <assigned_to>Developer H</assigned_to>
+      <status>In Progress</status>
+    </action>
+  </bug>
+  <bug>
+    <id>17</id>
+    <title>Website Crashes on iOS Safari</title>
+    <description>The website crashes when accessed through iOS Safari browser.</description>
+    <issue_date>2024-03-30</issue_date>
+    <progress>Assigned</progress>
+    <action>
+      <assigned_to>Developer I</assigned_to>
+      <status>In Progress</status>
+    </action>
+  </bug>
+  <bug>
+    <id>18</id>
+    <title>Broken Checkout Page</title>
+    <description>Users are unable to proceed with the checkout process due to issues on the checkout page.</description>
+    <issue_date>2024-03-31</issue_date>
+    <progress>Assigned</progress>
+    <action>
+      <assigned_to>Developer I</assigned_to>
+      <status>In Progress</status>
+    </action>
+  </bug>
+  <bug>
+    <id>19</id>
+    <title>Mobile Responsiveness Issue</title>
+    <description>The website is not properly responsive on mobile devices.</description>
+    <issue_date>2024-04-01</issue_date>
+    <progress>Assigned</progress>
+    <action>
+      <assigned_to>Developer J</assigned_to>
+      <status>In Progress</status>
+    </action>
+  </bug>
+  <bug>
+    <id>20</id>
+    <title>Broken Pagination on Product Listing</title>
+    <description>The pagination on the product listing page is not functioning correctly.</description>
+    <issue_date>2024-04-02</issue_date>
+    <progress>Assigned</progress>
+    <action>
+      <assigned_to>Developer J</assigned_to>
+      <status>In Progress</status>
+    </action>
+  </bug>
+</bugs>

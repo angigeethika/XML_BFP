@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <!-- Define complex types -->
+  <xs:complexType name="bugListType">
+    <xs:sequence>
+      <xs:element name="bug" type="bugType" minOccurs="1" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="bugType">
+    <xs:sequence>
+      <xs:element name="id" type="xs:string"/>
+      <xs:element name="summary" type="xs:string"/>
+      <xs:element name="reporter" type="reporterType"/>
+      <xs:element name="status" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="reporterType">
+    <xs:sequence>
+      <xs:element name="name" type="xs:string"/>
+      <xs:element name="email" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <!-- Define root element -->
+  <xs:element name="bugList" type="bugListType"/>
+
+</xs:schema>

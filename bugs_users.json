@@ -1,0 +1,51 @@
+{
+    "bugList": {
+        "bug": [
+            {
+                "id": "001",
+                "summary": "Page not loading",
+                "reporter": {
+                    "name": "Lankipalli Durga",
+                    "email": "durgalankipalli@gmail.com"
+                },
+                "status": "Open"
+            },
+            {
+                "id": "002",
+                "summary": "Button not clickable",
+                "reporter": {
+                    "name": "Balaji Naidu",
+                    "email": "kbalajinaidu143@gmail.com"
+                },
+                "status": "Open"
+            },
+            {
+                "id": "003",
+                "summary": "Service Unavailable",
+                "reporter": {
+                    "name": "Durga Prasad",
+                    "email": "patalaprasad@gmail.com"
+                },
+                "status": "In Progress"
+            },
+            {
+                "id": "004",
+                "summary": "Product Image Not Loading",
+                "reporter": {
+                    "name": "Geethika Angi",
+                    "email": "geethuangi@gmail.com"
+                },
+                "status": "In Progress"
+            },
+            {
+                "id": "005",
+                "summary": "Broken Links",
+                "reporter": {
+                    "name": "K. Charishma Rao",
+                    "email": "cherry09@gmail.com"
+                },
+                "status": "In Progress"
+            }
+        ]
+    }
+}

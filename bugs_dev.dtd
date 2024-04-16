@@ -1,0 +1,10 @@
+<!ELEMENT bugs (bug+)>
+<!ELEMENT bug (id, title, description, issue_date, progress, action)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT issue_date (#PCDATA)>
+<!ELEMENT progress (#PCDATA)>
+<!ELEMENT action (assigned_to, status)>
+<!ELEMENT assigned_to (#PCDATA)>
+<!ELEMENT status (#PCDATA)>

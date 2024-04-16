@@ -1,0 +1,8 @@
+<!ELEMENT bugList (bug+)>
+<!ELEMENT bug (id, summary, reporter, status)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT summary (#PCDATA)>
+<!ELEMENT reporter (name, email)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT status (#PCDATA)>

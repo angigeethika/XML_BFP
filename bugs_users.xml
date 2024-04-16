@@ -1,0 +1,49 @@
+<!DOCTYPE bugList SYSTEM "bugs_users.dtd">
+<?xml-stylesheet type="text/css" href="bugs_users.css"?>
+<bugList>
+    <bug>
+        <id>001</id>
+        <summary>Page not loading</summary>
+        <reporter>
+            <name>Lankipalli Durga</name>
+            <email>lankipallidurga@gmail.com</email>
+        </reporter>
+        <status>Open</status>
+    </bug>
+    <bug>
+        <id>002</id>
+        <summary>Button not clickable</summary>
+        <reporter>
+            <name>Balaji Naidu</name>
+            <email>kbalaji143@example.com</email>
+        </reporter>
+        <status>In Progress</status>
+    </bug>
+    <bug>
+        <id>003</id>
+        <summary>Service Unavailable</summary>
+        <reporter>
+            <name>Durga Prasad</name>
+            <email>patalaprasad@gmail.com</email>
+        </reporter>
+        <status>Open</status>
+    </bug>
+    <bug>
+        <id>004</id>
+        <summary>Product Image Not Loading</summary>
+        <reporter>
+            <name>Geethika Angi</name>
+            <email>geethuangi@gmail.com</email>
+        </reporter>
+        <status>Open</status>
+    </bug>
+    <bug>
+        <id>005</id>
+        <summary>Broken Links</summary>
+        <reporter>
+            <name>K. Charishma Rao</name>
+            <email>cherry09@gmail.com</email>
+        </reporter>
+        <status>Open</status>
+    </bug>
+</bugList>
